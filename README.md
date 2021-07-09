@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hi
-백괴 (guoi Paik)<br>
+백괴 (Guoi Paik)<br>
 Front-End Engineer @더백괴컴퍼니🏢<br>
 > 나는 짜다 프론트
 
