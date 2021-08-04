@@ -3,7 +3,7 @@
 seongbeom_lee@kakao.com<br><br>
 Front-End Engineer @ 더백괴컴퍼니🏢<br>
 Citizen @ 경기도 성남시 분당구🏡<br>
-Studied @ 광주소프트웨어마이스터고등학교🏫<br>
+Former-Student @ 광주소프트웨어마이스터고등학교🏫<br>
 > 프론트 깎는 노인
 
 ## ⛏ Tech Stack
