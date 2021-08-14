@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hi
-백괴 (Uncyclocity)<br>
+이성범 (백괴, Uncyclocity)<br>
 seongbeom_lee@kakao.com<br><br>
-Front-End Engineer @ 더백괴컴퍼니🏢<br>
+Front-End Engineer @ 주식회사 뚜또🏢<br>
 Citizen @ 경기도 성남시 분당구🏡<br>
 Former-Student @ 광주소프트웨어마이스터고등학교🏫<br>
 > 프론트 깎는 노인
