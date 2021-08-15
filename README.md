@@ -22,7 +22,7 @@ Former-Student @ 광주소프트웨어마이스터고등학교🏫<br>
 
 ## 📝 Tech Blog
 <a href="https://velog.io/@uncyclocity">
-  <img src="https://img.shields.io/badge/Velog(준비 중)-4FC08D?style=flat-square&logo=vimeo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=vimeo&logoColor=white"/>
 </a>
 <a href="https://uncyclocity.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-F16521?style=flat-square&logo=tidal&logoColor=white"/>
