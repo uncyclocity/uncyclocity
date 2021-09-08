@@ -1,8 +1,9 @@
 # 🙋‍♂️ Hi
 이성범 (백괴, Uncyclocity)<br>
+Front-End Engineer를 지망하며 꾸준히 노력하는 현역 산업기능요원<br>
 seongbeom_lee@kakao.com<br><br>
-Front-End Engineer @ 주식회사 뚜또🏢<br>
-Citizen @ 경기도 성남시 분당구🏡<br>
+Solution Engineer @ 판교테크노밸리의 모 솔루션 업체🏢<br>
+Citizen @ 경기도 성남시 분당구 서현동🏡<br>
 Former-Student @ 광주소프트웨어마이스터고등학교🏫<br>
 > 프론트 깎는 노인
 
