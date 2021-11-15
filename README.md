@@ -1,6 +1,7 @@
 # 🙋‍♂️ Hi
 이성범 (백괴, Uncyclocity)<br>
-Front-End Engineer를 지망하며 꾸준히 노력하는 현역 산업기능요원<br>
+현역 산업기능요원입니다.<br>
+현재 솔루션 개발자이지만, React.js를 독학하며 Front-End 개발자를 지망하고 있습니다.<br>
 seongbeom_lee@kakao.com<br><br>
 Solution Engineer @ 판교테크노밸리의 모 솔루션 업체🏢<br>
 Citizen @ 경기도 성남시 분당구 서현동🏡<br>
