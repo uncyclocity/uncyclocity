@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/820998088889073685/913404343762452511/39a94c1873466aaf.png?width=1058&height=99">
+<img src="https://media.discordapp.net/attachments/820998088889073685/913405785126604830/978389ae8b54c509.png?width=1058&height=99">
 
 # 🙋‍♂️ Hi
 이성범 (백괴, uncyclocity)<br>
