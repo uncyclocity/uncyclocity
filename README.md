@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/820998088889073685/913404343762452511/39a94c1873466aaf.png?width=1058&height=99">
+
 # 🙋‍♂️ Hi
 이성범 (백괴, uncyclocity)<br>
 현역 산업기능요원입니다.<br>
