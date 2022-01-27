@@ -2,12 +2,11 @@
 
 # 🙋‍♂️ Hi
 이성범 (백괴, uncyclocity)<br>
-현직 UI/UX 프레임워크 개발자, 현역 산업기능요원입니다.<br>
-가까운 미래의 Front-End 개발자를 지망하고 있습니다.<br><br>
+Front-End 개발자, 현역 산업기능요원입니다.<br><br>
 ✉ Email : seongbeom_lee@kakao.com<br>
 📰 Portfolio : https://uncyclocity.tech<br>
 📋 Resume : https://axiomatic-booth-a1e.notion.site/fb3fe5045cdc4b10bf37c47df21394bc<br><br>
-Solution Engineer @ 판교테크노밸리의 모 UI/UX 프레임워크 업체🏢<br>
+Front-End Engineer @ WePlanet (2022.02.24 예정)🏢<br>
 Citizen @ 경기도 성남시 분당구 서현동🏡<br>
 Former-Student @ 광주소프트웨어마이스터고등학교 소프트웨어개발과🏫<br>
 
