@@ -6,7 +6,7 @@ Front-End 개발자, 현역 산업기능요원입니다.<br><br>
 ✉ Email : seongbeom_lee@kakao.com<br>
 📰 Portfolio : https://uncyclocity.tech<br>
 📋 Resume : https://resume.uncyclocity.tech<br><br>
-Front-End Engineer @ WePlanet (2022.02.24 예정)🏢<br>
+Front-End Engineer @ WePlanet🏢<br>
 Citizen @ 경기도 성남시 분당구 서현동🏡<br>
 Former-Student @ 광주소프트웨어마이스터고등학교 소프트웨어개발과🏫<br>
 
